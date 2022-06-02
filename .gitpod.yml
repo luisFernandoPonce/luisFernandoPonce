@@ -1,0 +1,68 @@
+template: "online-cv"
+skin: "brown"
+
+basic_info:
+
+    first_name: Luis
+    last_name: Ponce
+    
+    motto: I love airplanes
+    
+    focus: Killing Bad Food
+    
+    summary: |
+      Summarise your career here lorem ipsum dolor sit amet, consectetuer
+      adipiscing elit. You can.
+      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
+      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
+      Donec quam felis, ultricies nec, pellentesque eu.
+      Second paragraph if required.
+    
+
+    email: luiferponce@gmail.com
+    phone: +34675277446
+    linkedin: luisfernandoponceardila
+    
+   
+    github: https://github.com/luisFernandoPonce
+    
+    twitter: luiferponce
+
+    languages:
+      - idiom: English
+        level: Basic
+
+      - idiom: Spanish
+        level: Native
+
+    interests:
+      - item: Photography
+
+      - item: Podcast
+
+      - item: Cooking
+
+education:
+    - degree: Lawyer
+      university: Jose Maria Vargas University
+      # optional
+      university_logo: https://4geeks.co/wp-content/themes/4geeks/img/logos/4geeks-academy.svg
+      time: 2010 - 2015
+        
+   
+skills:
+    toolset:
+      - name: Python
+        level: 98%
+
+      - name: Javascript
+        level: 98%
+
+      - name: React
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Sketch & Photoshop
+        level: 60%
