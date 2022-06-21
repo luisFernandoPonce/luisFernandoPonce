@@ -1,13 +1,7 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/luiferponce">
-  <img align="left" alt="Luis Ponce | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
-</a>
-<a href="https://www.linkedin.com/in/ponceluisfernando/">
-  <img align="left" alt="ponceluisfernando LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href="https://www.instagram.com/luiferponce/">
-  <img align="left" alt="luiferponce Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+[![Twitter Follow](https://img.shields.io/twitter/follow/luiferponce?label=Follow)](https://twitter.com/intent/follow?screen_name=luiferponce)
+[![Linkedin: Luis Ponce](https://img.shields.io/badge/-ponceluisfernando-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ponceluisfernando/)](https://www.linkedin.com/in/ponceluisfernando/)
+![GitHub followers](https://img.shields.io/github/followers/luisFernandoPonce?label=Follow&style=social)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=luisFernandoPonce.luisFernandoPonce)
 <br />
