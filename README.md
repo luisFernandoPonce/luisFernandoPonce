@@ -10,9 +10,3 @@ Hi, I'm [Luis Ponce], a Full Stack Developer 🚀 from Venezuela, Live in Spain,
 <br />
 
 <img  src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif" />
-
-### Donde me puedes encontrar
-
-_Personal_
-- :star::blush: **[email](https://luiferponce@gmail.com)** :v:
-- :star::blush: **[Twitter](https://twitter.com/luiferponce)** :v:
