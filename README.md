@@ -15,7 +15,6 @@ Hi, I'm [Luis Ponce], a Full Stack Developer 🚀 from Venezuela, Live in Spain,
 <br />
 <br />
 
-<img  src="https://raw.githubusercontent.com/luiferponce/luiferponce/master/img/clonstagramsignupmin.png" />
 <img  src="https://raw.githubusercontent.com/hebertdev/hebertdev/master/img/javascript.gif" />
 
 ### Donde me puedes encontrar
