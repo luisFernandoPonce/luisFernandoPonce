@@ -1,5 +1,5 @@
 ### Hey there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
-<a href="https://twitter.com/hebertdev1">
+<a href="https://twitter.com/luiferponce">
   <img align="left" alt="Luis Ponce | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/ponceluisfernando/">
@@ -22,4 +22,4 @@ Hi, I'm [Luis Ponce], a Full Stack Developer 🚀 from Venezuela, Live in Spain,
 
 _Personal_
 - :star::blush: **[email](https://luiferponce@gmail.com)** :v:
-- :star::blush: **[Twitter](https://twitter.com/hebertdev1)** :v:
+- :star::blush: **[Twitter](https://twitter.com/luiferponce)** :v:
